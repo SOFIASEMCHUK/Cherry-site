@@ -320,6 +320,12 @@ article {
     letter-spacing: 0.9px;
     margin-left: 4px;
 }
+.second__column-none ul{
+    list-style-type: none;
+}
+.second__column-disc li {
+    list-style-type: disc;
+}
 .section__table-item-title {
     font: 600 1.5rem Arial;
     color: #a5adb8;
